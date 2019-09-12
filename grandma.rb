@@ -8,4 +8,3 @@ def speak_to_grandma(phrase = "I LOVE YOU GRANDMA!")
 end 
 end 
 
-# Whatever you say to grandma, she shoul
